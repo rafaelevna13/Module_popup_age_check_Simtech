@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>popup_age_check</id>
+    <name>Popup age check</name>
+    <description>Pop-up age check</description>
+    <version>4.15.2.0</version>
+    <priority>6000</priority>
+    <position>1000</position>
+    <status>active</status>
+</addon>

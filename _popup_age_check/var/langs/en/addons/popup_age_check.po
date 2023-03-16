@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::Popup age check"
+msgid "Popup age check"
+msgstr "Popup age check"
+
+msgctxt "Addons::name::Name"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::popup_age_check"
+msgid "Popup age check"
+msgstr "Popup age check"
+
+msgctxt "Addons::description::popup_age_check"
+msgid "With this module you can add an age check popup"
+msgstr "With this module you can add an age check popup"
+
+msgctxt "Languages::popup_age_check_age_verification"
+msgid "Age verification"
+msgstr "Age verification"
+
+msgctxt "Languages::popup_age_check_date_of_birth"
+msgid "Enter your date of birth"
+msgstr "Enter your date of birth"
+
+msgctxt "Languages::popup_age_check_content_unavailable"
+msgid "Content unavailable"
+msgstr "Content unavailable"
+
+msgctxt "Languages::popup_age_check_content_unavailable_verbose"
+msgid "Your age does not match the content on the site"
+msgstr "Your age does not match the content on the site"
