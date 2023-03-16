@@ -1,4 +1,3 @@
-# Module_popup_age_check_Simtech
        Работа выполнялась на ноутбуке с операционной системой macOS (Monterey (версия 12.5.1))
 Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1
 Версия клиента базы данных: libmysql - mysqlnd 7.4.21

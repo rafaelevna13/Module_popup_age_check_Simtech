@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /release-4.15.2/addons/popup.po\n"
+"X-Crowdin-File-ID: 7001\n"
+"PO-Revision-Date: 2022-10-11 19:37\n"
+
+msgctxt "Addons::name::Popup age check"
+msgid "Popup age check"
+msgstr "Всплывающее окно проверки возраста"
+
+msgctxt "Addons::name::Name"
+msgid "Name"
+msgstr "Название"
+
+msgctxt "Languages::popup_age_check"
+msgid "Popup age check"
+msgstr "Всплывающее окно проверки возраста"
+
+msgctxt "Addons::description::popup_age_check"
+msgid "With this module you can add an age verification popup"
+msgstr "С помощью этого модуля можно добавить всплывающее окно проверки возраста"
+
+msgctxt "Languages::popup_age_check_age_verification"
+msgid "Age verification"
+msgstr "Подтверждение возраста"
+
+msgctxt "Languages::popup_age_check_date_of_birth"
+msgid "Enter your date of birth"
+msgstr "Введите свою дату рождения"
+
+msgctxt "Languages::popup_age_check_content_unavailable"
+msgid "Content unavailable"
+msgstr "Контент недоступен"
+
+msgctxt "Languages::popup_age_check_content_unavailable_verbose"
+msgid "Your age does not match the content on the site"
+msgstr "Ваш возраст не соответствует содержанию на сайте"
